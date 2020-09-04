@@ -29,6 +29,8 @@ while(rs.next())
 
 System.out.println(rs.getString("name"));
 System.out.println(rs.getString("age"));
+
+System.out.println("changes added to github");
 }
 	}
 
